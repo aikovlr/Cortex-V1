@@ -1,4 +1,4 @@
-# Cortex-db
+# Cortex-db V1.0 (desatualizado)
 
 Este repositório contém uma API simples em Node.js/TypeScript que utiliza Express, Drizzle ORM e PostgreSQL para gerenciar usuários e tarefas.
 
