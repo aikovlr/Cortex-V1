@@ -1,5 +1,6 @@
 # Cortex-db V1.0 (desatualizado)
 
+### **Atualmente está sendo refatorado, confira o novo back-end [aqui!](https://github.com/aikovlr/Cortex-backend)**
 Este repositório contém uma API simples em Node.js/TypeScript que utiliza Express, Drizzle ORM e PostgreSQL para gerenciar usuários e tarefas.
 
 Conteúdo principal:
